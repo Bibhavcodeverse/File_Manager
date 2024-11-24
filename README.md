@@ -34,6 +34,9 @@ A Python-based file manager that provides functionality for managing files and d
    ```bash
    python filemanager.py
    ```
+   ##   Live Demo
+
+   [Click here to run](https://bibhavabc.streamlit.app/)
 
 ## License
 
